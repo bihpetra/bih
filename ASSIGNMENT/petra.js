@@ -1,4 +1,4 @@
-//interestRate
+G//interestRate
 let interestRate=0.3;//always use let to reassign a variable
 interestRate=1;
 console.log(interestRate);
